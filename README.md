@@ -43,7 +43,7 @@ src="https://cardivo.vercel.app/api?name=UNLIMITED%20TECH%20V5&description=🥂T
 
 
 
-<a href='https://session-site-navy.vercel.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://joel-xmd-bot.onrender.com/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
  
