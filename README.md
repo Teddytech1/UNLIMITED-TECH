@@ -58,7 +58,7 @@ src="https://cardivo.vercel.app/api?name=UNLIMITED%20TECH%20V5&description=🥂T
 
  
 
-<a href='https://deploy-your-own-bot.netlify.app' target="_blank"><img alt='Teddytech1' src='https://img.shields.io/badge/HEROKU-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Teddytech1/UNLIMITED-TECH' target="_blank"><img alt='Teddytech1' src='https://img.shields.io/badge/HEROKU-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
