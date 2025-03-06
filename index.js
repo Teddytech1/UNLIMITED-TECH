@@ -70,13 +70,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`joel md using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`unlimited tech using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["ʝσєℓ χ∂", "safari", "3.3"],
+            browser: ["Unlimited tech", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -156,7 +156,7 @@ async function init() {
 init();
 
 app.get('/', (req, res) => {
-    res.send('am joel bot');
+    res.send('am unlimited tech bot');
 });
 
 app.listen(PORT, () => {
@@ -164,4 +164,4 @@ app.listen(PORT, () => {
 });
 
 
-//updated vy bandaheali
+//updated by kibet
